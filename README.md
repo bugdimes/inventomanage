@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version: ruby-3.1.0
 
-#How to Run the Project ?
+# How to Run the Project ?
 
 Firstly, Make sure you have currect Ruby and Rails versions installed in your system
 1. Ruby: 3.1.0 (One can install it via [RVM](https://rvm.io/rvm/install))
@@ -17,7 +17,7 @@ Firstly, Make sure you have currect Ruby and Rails versions installed in your sy
 5. Navigate to [http://0.0.0.0:3000/admin/](http://0.0.0.0:3000:/admin/)
 6. Done
 
-#To-Do
+# To-Do
 1. Authentication
 2. Item Tracking
 3. Soft Delete
